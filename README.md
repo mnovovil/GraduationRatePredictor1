@@ -6,8 +6,8 @@ The aim of this project is to model the way government expenditures and labor ap
 The machine learning algorithms implemented are Elastic Net, SVR, Bayesian Ridge, AdaBoost Regressor, Random Forest Regressor, and neural network regression. Our experiments show that diminishing
 returns are not present in funding, rather the educational staff’s quality affects graduation rates.
 
-Deliverables: Prospectus Script & Report, 
-              Final Script & Report, 
+Deliverables: Final Script & Report (https://github.com/mnovovil/GraduationRatePredictor1/blob/main/FinalReport.pdf), 
               Final Presentation.
 
 Dataset, Data Model & Data Dictionary Included.
+
